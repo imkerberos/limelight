@@ -1,10 +1,15 @@
 ## Limelight
 
+**IMPORANT:** This project is not maintained and uses and outdated technique to attempt to sync external border windows to the windows owned by other applications running on the system.
+This was created because borders were removed from the yabai project at the time. Since then, a new and improved border system has been implementend, which supercedes this project.
+
+--
+
 Port of the old border system that used to be implemented in yabai v2.4.3.
 
 For the old version of limelight that was simply a focused border, see [focused_border_only](https://github.com/koekeishiya/limelight/tree/focused_border_only)
 
-Requires access to the accessibility API. Supports macOS High Sierra and newer.
+Requires access to the accessibility API. Supports macOS High Sierra, Mojave, Catalina and Big Sur.
 
 Documentation: https://github.com/koekeishiya/limelight/blob/master/doc/limelight.asciidoc
 

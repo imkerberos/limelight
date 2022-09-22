@@ -3,6 +3,8 @@
 **IMPORANT:** This project is not maintained and uses and outdated technique to attempt to sync external border windows to the windows owned by other applications running on the system.
 This was created because borders were removed from the yabai project at the time. Since then, a new and improved border system has been implementend, which supercedes this project.
 
+**README:** https://github.com/koekeishiya/limelight/issues/37
+
 --
 
 Port of the old border system that used to be implemented in yabai v2.4.3.
